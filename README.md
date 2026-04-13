@@ -1,8 +1,3 @@
-# Shakibur Rahman — Portfolio Website
-
-A modern, dark-mode portfolio website built with **Next.js**, **TypeScript**, and **Tailwind CSS**.
-
-## 🚀 Quick Start
 
 ### Prerequisites
 - Node.js 18+ installed
